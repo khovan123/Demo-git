@@ -1,0 +1,9 @@
+- git add `file`
+- git add.
+- git commit -m`message`
+- git push
+- branch-name: `name`
+- git checkout -b `branch`
+- create pull request
+- git push --set-upstream origin `branch`
+- merge code to brach Master
