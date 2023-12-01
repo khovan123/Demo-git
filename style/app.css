@@ -10,3 +10,11 @@ body {
   font-family: Verdana, Tahoma, sans-serif;
   font-weight: 400;
 }
+.container {
+  margin: 0 auto;
+}
+h1 {
+  font-size: 6.4rem;
+  color: #333;
+  margin-bottom: 3.2rem;
+}
