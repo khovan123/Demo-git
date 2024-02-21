@@ -1,5 +1,5 @@
 ### git basic
-
+- git clone url
 - git add `file` "push `file` from changes to staged "
 - git add. "push all file from changes to stages "
 - git commit -m`message`
