@@ -1,4 +1,6 @@
 ### git basic
+- git init
+- git remote add origin <máy-chủ>
 - git clone url
 - git add `file` "push `file` from changes to staged "
 - git add. "push all file from changes to stages "
